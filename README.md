@@ -2,6 +2,12 @@
 
 This collection contains event source plugins, event filters and example rulebooks to be used with [ansible-rulebook](https://ansible-rulebook.readthedocs.io/en/stable/).
 
+<p style="text-align: center" align="center">
+    <a href="https://github.com/ccamacho/eda/actions?workflow=integration-tests"><img height="20px" src="https://github.com/ccamacho/eda/actions/workflows/integration-tests.yml/badge.svg?event=schedule"/> </a>
+    <a href="https://github.com/ccamacho/eda/actions?workflow=linters"><img height="20px" src="https://github.com/ccamacho/eda/actions/workflows/linter.yml/badge.svg?event=schedule"/> </a>
+    <a href="https://github.com/ccamacho/eda/actions?workflow=tests"><img height="20px" src="https://github.com/ccamacho/eda/actions/workflows/tests.yml/badge.svg?event=schedule"/> </a>
+</p>
+
 ## Install
 
 Install the ansible.eda collection with the Ansible Galaxy CLI:
